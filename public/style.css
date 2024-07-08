@@ -1,0 +1,17 @@
+body{
+    margin-top: 10px;
+    margin-left: 20px;
+    display: inline-block;
+}
+.conversation{
+    background-color: aliceblue;
+    padding: 16px;
+    border-radius: 16px;
+    
+}
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 25px 15px;
+    border-radius: 15px;
+}
